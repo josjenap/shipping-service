@@ -12,6 +12,7 @@
     <session id="2131319711">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -44,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/tests/shipping-controller.test.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
-              <caret line="33" column="4" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+              <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -54,8 +55,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="247" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="238" />
     <option name="y" value="67" />
     <option name="width" value="1682" />
     <option name="height" value="932" />
@@ -114,7 +115,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="198" y="54" width="1345" height="745" extended-state="1" />
+    <frame x="191" y="54" width="1345" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -154,7 +155,7 @@
     <entry file="file://$PROJECT_DIR$/tests/shipping-controller.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="33" column="4" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
         </state>
       </provider>
     </entry>
